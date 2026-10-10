@@ -57,6 +57,6 @@ Plateforme open source de gestion des vulnérabilités réseau : découverte, an
 
 - 💼 LinkedIn : [faly-jean-antonio-downavan-andriatsitohaina](https://www.linkedin.com/in/faly-jean-antonio-downavan-andriatsitohaina-00321a3b1)
 - ▶️ YouTube : [@cyberprojects-antonio](https://www.youtube.com/@cyberprojects-antonio)
-- ✉️ E-mail : andriatsitohaina02downavan@gmail.com
+- ✉️ E-mail : andriantsitohaina02downavan@gmail.com
 
 > *Langues : malgache (langue maternelle), français, anglais technique.*
